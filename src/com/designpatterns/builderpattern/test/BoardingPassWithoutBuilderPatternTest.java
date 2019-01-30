@@ -3,6 +3,7 @@ package com.designpatterns.builderpattern.test;
 import com.designpatterns.builderpattern.BoardingPassWithBuilderPattern;
 import com.designpatterns.builderpattern.BoardingPassWithoutBuilderPattern;
 import org.junit.Test;
+
 import static org.junit.Assert.assertEquals;
 
 public class BoardingPassWithoutBuilderPatternTest {
