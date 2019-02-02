@@ -47,3 +47,20 @@ you to access the methods kinda like in a circle.
 
 **Iterator Pattern:**
 
+Purpose via GoF:
+
+The essence of the Iterator Pattern is to "Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
+
+**Pros:**
+Provides an object to iterate over a list of items without exposing the data structure.
+
+**Cons:**
+Verbose, a lot of code is written
+
+**My Key Takeaway**
+Iterator for an object can change independently of the data structure, no tight coupling.
+
+
+
+
+
