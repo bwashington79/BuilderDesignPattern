@@ -1,4 +1,4 @@
-# Learning Builder Design Pattern
+# Learning GoF Design Patterns
 
 **Builder Pattern:**
 
